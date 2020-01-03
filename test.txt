@@ -1,0 +1,2 @@
+I am.
+I am secondline with partially deleted first line.
